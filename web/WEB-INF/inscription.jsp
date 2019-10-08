@@ -74,7 +74,7 @@
                 </div>
                 <div class="card-body">
                     <br>
-                    <form action="inscription" method="POST">
+                    <form action="register" method="POST">
                         <div class="form-group">
                             
                             <input class="form-control text-center"
